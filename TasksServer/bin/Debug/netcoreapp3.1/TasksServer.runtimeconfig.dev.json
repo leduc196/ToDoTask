@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\RAIDER\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\RAIDER\\.nuget\\packages"
+    ]
+  }
+}
